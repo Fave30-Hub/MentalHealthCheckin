@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="MentalHealthCheckin.Api/MentalHealthCheckin.Api.csproj" />
+  <Project Path="MentalHealthCheckin.Application/MentalHealthCheckin.Application.csproj" />
+  <Project Path="MentalHealthCheckin.Domain/MentalHealthCheckin.Domain.csproj" />
+  <Project Path="MentalHealthCheckin.Infrastructure/MentalHealthCheckin.Infrastructure.csproj" />
+  <Project Path="MentalHealthCheckin.Tests/MentalHealthCheckin.Tests.csproj" />
+</Solution>
